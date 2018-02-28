@@ -1,4 +1,6 @@
 #include "Statistician.h"
+#include "Male.h"
+#include "Female.h"
 
 Statistician::Statistician() : femaleCount(0), maleCount(0), femaleWeightSum(0), maleWeightSum(0) {
 }

@@ -3,7 +3,8 @@
 
 #include "Person.h"
 #include "Statistician.h"
-#include "bits/stdc++.h"
+#include <vector>
+
 
 using namespace std;
 

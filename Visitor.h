@@ -11,7 +11,5 @@ public:
     virtual void visit_female(Female*) = 0;
 };
 
-#include "Female.h"
-#include "Male.h"
 
 #endif // VISITOR_H_INCLUDED

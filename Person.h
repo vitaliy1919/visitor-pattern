@@ -19,6 +19,5 @@ public:
     virtual void accept(Visitor*);
 };
 
-#include "Visitor.h"
 
 #endif // PERSON_H_INCLUDED

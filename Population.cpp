@@ -1,6 +1,7 @@
 #include "Population.h"
 #include "Statistician.h"
-
+#include "Male.h"
+#include "Female.h"
 void Population::create_population() {
     printf("To add a new member to the population,\n");
     printf("please enter their data.\n");
